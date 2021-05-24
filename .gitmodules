@@ -1,0 +1,3 @@
+[submodule "Assets/LSL4Unity"]
+	path = Assets/LSL4Unity
+	url = git@github.com:labstreaminglayer/LSL4Unity.git
