@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LSL4Unity/Demos/Demo_IncomingStreams.unity
+    guid: 3550c01a8d2673149a51d237ef66a00b
   m_configObjects: {}
