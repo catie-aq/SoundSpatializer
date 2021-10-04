@@ -8,6 +8,7 @@ public class SoundPlayer : MonoBehaviour
     private AudioSource source;
     private Transform CameraTransform;
 
+    public float LastUpdate; 
     // Start is called before the first frame update
     void Start()
     {

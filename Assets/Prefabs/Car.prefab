@@ -118,9 +118,9 @@ AudioSource:
   Priority: 0
   DopplerLevel: 3
   MinDistance: 1
-  MaxDistance: 55
+  MaxDistance: 100
   Pan2D: 1
-  rolloffMode: 2
+  rolloffMode: 1
   BypassEffects: 1
   BypassListenerEffects: 1
   BypassReverbZones: 1
