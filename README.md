@@ -1,9 +1,7 @@
 
-# Building 
+# 3D Sound in Unity 
 
+This application is a Unity3D app, it receives 3D positions from Redis. 
 
-## Post - build 
-
-After the build, the liblsl64.dll must be copied to `F:\-BUILDNAME-\soundSpatializer_Data\Mono\liblsl.dll`. 
-
-Or else it will just not work silently. 
+The first implementation was with libLSL. However deployment and ease of use 
+is much higher with Redis. 
